@@ -1,0 +1,10 @@
+Language:Python
+Language:Python 3.11
+----------------------------
+Ver:3.11
+Ver.:3.11
+Folder Ver.:0 v.0 v.0
+----------------------------
+Python ✓ - True
+Lua ✕ - False
+Java ✕ - False
